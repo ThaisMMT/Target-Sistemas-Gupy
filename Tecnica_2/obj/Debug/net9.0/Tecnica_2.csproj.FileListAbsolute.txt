@@ -1,0 +1,14 @@
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\bin\Debug\net9.0\Tecnica_2.exe
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\bin\Debug\net9.0\Tecnica_2.deps.json
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\bin\Debug\net9.0\Tecnica_2.runtimeconfig.json
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\bin\Debug\net9.0\Tecnica_2.dll
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\bin\Debug\net9.0\Tecnica_2.pdb
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\obj\Debug\net9.0\Tecnica_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\obj\Debug\net9.0\Tecnica_2.AssemblyInfoInputs.cache
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\obj\Debug\net9.0\Tecnica_2.AssemblyInfo.cs
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\obj\Debug\net9.0\Tecnica_2.csproj.CoreCompileInputs.cache
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\obj\Debug\net9.0\Tecnica_2.dll
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\obj\Debug\net9.0\refint\Tecnica_2.dll
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\obj\Debug\net9.0\Tecnica_2.pdb
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\obj\Debug\net9.0\Tecnica_2.genruntimeconfig.cache
+C:\Users\asade\Desktop\TECNICA\Tecnica_2\obj\Debug\net9.0\ref\Tecnica_2.dll

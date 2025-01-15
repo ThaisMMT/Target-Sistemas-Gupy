@@ -1,0 +1,14 @@
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\bin\Debug\net9.0\Tecnica_4.exe
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\bin\Debug\net9.0\Tecnica_4.deps.json
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\bin\Debug\net9.0\Tecnica_4.runtimeconfig.json
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\bin\Debug\net9.0\Tecnica_4.dll
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\bin\Debug\net9.0\Tecnica_4.pdb
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\obj\Debug\net9.0\Tecnica_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\obj\Debug\net9.0\Tecnica_4.AssemblyInfoInputs.cache
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\obj\Debug\net9.0\Tecnica_4.AssemblyInfo.cs
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\obj\Debug\net9.0\Tecnica_4.csproj.CoreCompileInputs.cache
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\obj\Debug\net9.0\Tecnica_4.dll
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\obj\Debug\net9.0\refint\Tecnica_4.dll
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\obj\Debug\net9.0\Tecnica_4.pdb
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\obj\Debug\net9.0\Tecnica_4.genruntimeconfig.cache
+C:\Users\asade\Desktop\TECNICA\Tecnica_4\obj\Debug\net9.0\ref\Tecnica_4.dll
